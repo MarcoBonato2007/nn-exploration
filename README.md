@@ -1,5 +1,5 @@
 # nn-exploration
-My past exploration into neural networks. Contains a train.csv file from the ![MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
+My past exploration into neural networks. Contains a train.csv file from the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
 Much of this project was spent teaching myself the theory. I did this project before I even knew what a derivative or a matrix was, so you can imagine how long that took!
 
